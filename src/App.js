@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Ha Noi
+          Ha Noi 2
         </p>
         
       </header>
